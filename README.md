@@ -12,7 +12,7 @@
 5 - Verificar se as tabelas da aplicação foram criadas. 
 
 6 - Verificar no teste, se os métodos de consulta que se utilizam de JPQL e Criteria foram executados.
-
+________________________________________________________________________________________________________________________________________
 English: 
 # Example of how to make queries in a JPA application, using JPQL and Criteria 
 
