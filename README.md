@@ -1,4 +1,5 @@
-﻿Portuguese: Exemplo de como fazer consultas em uma aplicação JPA, utilizando JPQL e Criteria
+﻿Portuguese: 
+# Exemplo de como fazer consultas em uma aplicação JPA, utilizando JPQL e Criteria
 
 1 - Foi criado um projeto Maven do Eclipse, é só importar um projeto Maven no Eclipse.  
 
@@ -12,7 +13,8 @@
 
 6 - Verificar no teste, se os métodos de consulta que se utilizam de JPQL e Criteria foram executados.
 
-English: Example of how to make queries in a JPA application, using JPQL and Criteria 
+English: 
+# Example of how to make queries in a JPA application, using JPQL and Criteria 
 
 1 - A standard Eclipse Maven project was created, just import a Maven project in Eclipse.
 
